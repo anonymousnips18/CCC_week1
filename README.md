@@ -10,3 +10,7 @@ This is a demo repo from CCC course.
 ### Gist
 
 This is a good example of [my code](https://gist.github.com/anonymousnips18/aa6cdb57e5c5d37615e36ebf50cef045)
+
+### Colab Example
+
+this is the [notebook](https://colab.research.google.com/drive/1JRIxbEX1JnCXhpeU3As5QzzO-c59Jjiw?usp=sharing)
